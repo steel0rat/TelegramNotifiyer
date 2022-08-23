@@ -1,0 +1,12 @@
+
+# Vendor
+
+/vendor/
+
+
+# IDE
+
+/.idea
+/nbproject/
+/.dcync
+

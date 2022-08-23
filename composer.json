@@ -1,0 +1,20 @@
+{
+    "name": "steel0rat/telegram-notifiyer",
+    "version": "0.1",
+    "autoload": {
+        "psr-4": {"src\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "steel0rat"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.4"
+    }
+}
